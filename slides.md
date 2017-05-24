@@ -269,10 +269,11 @@ Creation, processing, analysis, visualisation of research data
 <!-- .element class="fragment" -->
 
 Note:
-Everybody knows that software is eating the world. This means, of course, that software is eating science, too. **CLICK**
+Everybody knows that software is eating the world.  
+This means, of course, that software is eating science, too. **CLICK**
 
-And it's true: at least since the advent of the Digital Humanities, software has played a central role in pretty much every scientific discipline.  
-But what is scientific software, or research software?  **CLICK**
+True: at least since the **advent of the Digital Humanities**, software has played a central role in pretty much every scientific discipline.  
+But **what is scientific software**, or research software?  **CLICK**
 
 It is software that handles research data.  
 This can mean that it
@@ -284,8 +285,8 @@ This can mean that it
 
 As you can see, software is there for the whole research process.  **CLICK**
 
-In return, this means that the development and maintenance of research software plays a central role in the research process.  
-Or at least it should and must.
+This also means that the development and maintenance of research software plays a central role in the research process.  
+Or at least it should.
 
 
 
@@ -299,23 +300,23 @@ Or at least it should and must.
 <!-- .element class="fragment" -->
 
 Note:
-Because up to now, research software has unfortunately been treated like a bit of a Cinderella, with science being the evil step mother.  
+Because up to now, **research software** has unfortunately been **treated a bit like Cinderella**, with science being the evil step mother.  
 How is that?
 
-For one part, software is hardly ever recognized as a primary research outcome, at least outside of computer science.  
-People have recognized for a while now that research data, especially processed research data, are in fact a research outcome.   
+For one part, software **is hardly ever recognized as a primary research outcome**, at least outside of computer science.  
+People have recognized for a while now that **research data**, especially preprocessed research data, are in fact a research outcome.   
 This not only makes sense, there has also been a relatively intensive discussion about the premises, elicitation and generation, storage and availability, and reference of research data for quite some time.  
 The same cannot be said for software. Yet.  
-Only recently have some parties picked up the thread.  
-This is also due to the fact that the term "research software" is used to describe a wide variety of objects.  
+This is also due to the fact that the term "research software" is used to describe a **wide variety of objects.**  
 Research software can be anything from small scripts that have been created on the fly to solve a specific problem, or make an arduous task that much easier, to large software infrastructures with a large user base and millions of lines of code.  
 
-The point that everyone seemed to have missed, though, is that without software, other research outcomes (such as research data for example) can often not be created or processed in the first place.  **CLICK**
+The point that everyone seemed to have missed, though, is that **without software, other research outcomes (such as research data for example) can often not be created or processed** in the first place.  **CLICK**
 
-In order to enable research, therefore, software must be created.  
-The problem is, and I think everybody here will know that, is that making software is not a trivial task.  **CLICK**
+In order **to enable research, therefore, software must be created**.  
+The problem, and I think everybody here will know that, is that making software is not a trivial task.  **CLICK**
 
-Now, if you add the fact that research per definition includes the scrutinous inspection of a research object and its data, it should become sufficiently clear that the product of this whole process, namely the software product, must be regarded a regular research outcome.  
+Now, add the fact that research per definition includes the scrutinous inspection of a research object and its data.  
+Then, it **should become sufficiently clear that the product of this whole process**, namely the software product, **must be regarded a regular research outcome.**  
 
 
 
@@ -330,11 +331,11 @@ Now, if you add the fact that research per definition includes the scrutinous in
 - Licenses? Intellectual property?
 
 Note:
-Despite this noble claim, we still have a long way to go.  
-Here is an incomplete list of why:
+**Despite this noble claim, we still have a long way to go.**  
+Here is an **incomplete list of why**:
 
 - Limited availability and usability of research software
-- Multiplicate and parallel implementation of solutions for the same problem
+- Multiple and parallel implementation of solutions for the same problem
 - A lack of quality standards for the development and review of research software
 - A lack of reproducibility, for example of simulation results
 - Unclear policies regarding publication, for example in terms of licenses and intellectual property
@@ -354,11 +355,11 @@ Here is an incomplete list of why:
 
 Note:
 Now, the disregard of software as a first class citizen of research results leads directly to another set of issues:  
-There are simply no incentives for the creation of such a potential first class citizen.  
+There are simply no incentives for the creation of software in science, for example to solve the above-mentioned issues.  
 More precisely:
 
-- A lack of recognition for software development as a scientific achievement
-- There is no formal place for software developers in the academic system, i.e., no suitable job descriptions, no suitable job titles, no column in the wage table, etc.
+- A lack of recognition for software development as a scientific achievement in general
+- There is no dedicated space for software developers in the academic system, i.e., no suitable job descriptions, no suitable job titles, no column in the wage table, etc.
 - Achievement in research software development is not linked to the academic reputation system, for example through citations, impact metrics, etc.
 - Skills in software development are usually neither asked for nor promoted
 
@@ -366,15 +367,15 @@ More precisely:
 
 ## Software in science
 
-At least: an (informal) title!
+At least: an (informal) job title!
 
 ## <span style="color:green;">Research Software Engineer</span> (RSE)
 
 <img src="./img/unicorn.png" style="border:0; background-color:transparent; width: 20%; height: auto;">
 
 Note:
-This all sounds very bleak, doesn't it!
-Well, at least there is a silver lining with reagrd to one of these issues, namely an informal job title: Research Software Engineer!
+This all **sounds very bleak**, doesn't it!
+Well, at least there is **a silver lining with regard to one of these issues**, namely an informal job title: Research Software Engineer!
 
 
 
@@ -392,6 +393,7 @@ Potential properties:
 <img src="./img/nerd.png" style="border:0; background-color:transparent; width: 20%; height: auto;">
 
 Note:
+But **what is a Research Software Engineer**?  
 Research software is being developed and maintained by people in very different roles, with different approaches and with varying intensity.  
 However, there is no reason why all of these people cannot be called Research Software Engineers (RSEs).  
 RSEs can be distinguished, for example, by one or more of the following properties:  
@@ -411,9 +413,10 @@ RSEs can be distinguished, for example, by one or more of the following properti
 <img src="./img/barista.png" style="border:0; background-color:transparent; width: auto; height: 400px;">
 
 Note:
-The variety of these examples shows that RSE is not a formalised title, but rather a set of skills, refined by an intimate understanding of research objects and processes. 
+The variety of these examples shows that **RSE is not a formalised title**, but rather a set of skills, refined by an intimate understanding of research objects and processes. 
 
-RSEs are, in short, people who work in science and care about software.  
+RSEs are, in short, **people who work in science and care about software.**  
+
 Laurence Billingham has likened us to baristas, who respectfully process raw materials (research data) with high quality products.  
 We could also be described as farmers carefully producing the raw materials; or as companies building high-end processing plants with engineer-grade precision; or as workshops crafting the optimal espresso machine.  
 
@@ -428,6 +431,7 @@ We could also be described as farmers carefully producing the raw materials; or 
 (16 Sep 2016: github.com/DE-RSE/www commit 4871e6740a678ddd9ba51db5e67cd6ea235cb9b2)
 
 Note:
+A bit of history:  
 The term "Research Software Engineer" has been created in the UK, or more precisely at Queen's College, Oxford, where in March 2012 a group of people met to discuss the question why there were no career paths for software developers in science.  
 This lead to a paper titled "The Research Software Engineer" submitted to the "Digital Research" conference in Oxford in September 2012.  
 This in turn triggered a dedicated workshop in Oxford a year later and the birth of the UKRSE Association, which organized the first ever RSE conference in Manchester in 2016.
