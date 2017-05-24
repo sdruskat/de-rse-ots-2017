@@ -37,7 +37,6 @@ html, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal i
 	display: block;
 }
 
-
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
@@ -380,6 +379,7 @@ body {
 }
 
 .reveal .slides {
+	font-size: 80%;
 	position: absolute;
 	width: 100%;
 	height: 100%;
