@@ -12,7 +12,7 @@ Okay, notes work!
 
 
 
-## Cute kitty sez:  
+## Sleepy kitty sez:  
 
 ## English ▶
 
