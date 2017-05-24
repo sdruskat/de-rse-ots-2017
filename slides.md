@@ -363,6 +363,8 @@ More precisely:
 - Achievement in research software development is not linked to the academic reputation system, for example through citations, impact metrics, etc.
 - Skills in software development are usually neither asked for nor promoted
 
+The result: **CLICK**
+
 
 
 ## Software in science
@@ -374,7 +376,7 @@ At least: an (informal) job title!
 <img src="./img/unicorn.png" style="border:0; background-color:transparent; width: 20%; height: auto;">
 
 Note:
-This all **sounds very bleak**, doesn't it!
+This all **sounds very bleak**, doesn't it!  
 Well, at least there is **a silver lining with regard to one of these issues**, namely an informal job title: Research Software Engineer!
 
 
